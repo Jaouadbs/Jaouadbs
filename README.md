@@ -30,4 +30,4 @@ Avant de coder, j'ai piloté des projets logiciels complexes de A à Z. Cette ex
 ### 📫 Me contacter
 - **LinkedIn :** [(https://fr.linkedin.com/in/jaouad-boussalah-31a2a9175)]
 
-![Stats de Jaouad](https://github-readme-stats.vercel.app/api?username=Jaouadbs&show_icons=true&theme=radical)
+![Stats de Jaouad](https://github-readme-stats.vercel.app/api?username=Jaouadbs&show_icons=true&theme=github_dark)
